@@ -9,6 +9,6 @@
 	"license": "MIT",
 	"dependencies": {
 		"prettier": "^1.12.1",
-		"yargs": "^11.1.0"
+		"yargs": "^17.7.2"
 	}
 }
